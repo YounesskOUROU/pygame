@@ -58,6 +58,7 @@ class Game :
     
     def white_font_style(self):
         #self.window.fill(WHITE)
+        # add something 
         self.window.blit(self.Back_ground, (0, 0))
 
     def add_players(self):
