@@ -25,6 +25,6 @@ Bienvenue dans le projet "War Ship Space" ! Ce jeu vidéo captivant est dévelop
 1. **Installation de Pygame :** Assurez-vous d'installer Pygame sur votre système. Vous pouvez le faire en utilisant la commande suivante :
    ```bash
    pip install pygame
-2 **Execution du jeu :** Utiliser la commande suivante : 
+2. **Execution du jeu :** Utiliser la commande suivante : 
    ```bash
    python main.py
