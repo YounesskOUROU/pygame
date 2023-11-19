@@ -28,3 +28,8 @@ Bienvenue dans le projet "War Ship Space" ! Ce jeu vidéo captivant est dévelop
 2. **Execution du jeu :** Utiliser la commande suivante : 
    ```bash
    python main.py
+
+## Vue génerale 
+
+![Screenshot](screenshot.png)
+
